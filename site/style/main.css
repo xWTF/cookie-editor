@@ -360,21 +360,6 @@ header .btn-cta {
   font-weight: 700;
 }
 
-.ad {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 20px;
-}
-
-.ad > img {
-  max-height: 120px;
-}
-
-.ad .btn-cta {
-  margin-top: 5px;
-}
-
 #contribution {
   display: flex;
   gap: 100px;
